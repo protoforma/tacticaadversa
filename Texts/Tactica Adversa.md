@@ -131,7 +131,7 @@ Pi 230 mio
 
 СТ на графике индекса ММВБ, дни:
 
-![MOEX  daily](Tactica%20Adversa/MOEX%20daily.png)
+![MOEX daily](Tactica%20Adversa/MOEX%20daily.png)
 
 MOEX spot daily 
 
