@@ -205,9 +205,15 @@ CHMF.MICEX
 
 
 
-График изменения среднесуточной температуры:
+Графики изменения среднесуточной температуры:
 
 ![TEMPERATURE](Tactica%20Adversa/TEMPERATURE.png)
+
+TEMPERATURE
+
+
+
+![TEMPERATURE3](Tactica%20Adversa/TEMPERATURE3.png)
 
 TEMPERATURE
 
