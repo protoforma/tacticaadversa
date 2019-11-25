@@ -203,7 +203,23 @@ CHMF.MICEX
 
 	- (max^1^ >= max^3^) > min^2^ > min^4^ и (min^1^ + max^2^) > (min^3^ + max^4^) 
 
-	
+
+
+График изменения среднесуточной температуры:
+
+![TEMPERATURE](Tactica%20Adversa/TEMPERATURE.png)
+
+TEMPERATURE
+
+
+
+Курс рубля к доллару:
+
+![USDRUB.240](Tactica%20Adversa/USDRUB.240.png)
+
+USDRUB.240
+
+
 
 ## МОДЕЛЬ ДИНАМИЧЕСКОГО РАВНОВЕСИЯ (МДР)
 
@@ -236,6 +252,30 @@ CHMF.MICEX
 - (СТ + max^1^) > 7 * (max^1^ + min^4^) и (min^4^ + HP) > 7 * (max^1^ + min^4^)
 
 	для down-тренда
+
+
+
+Экономические показатели:
+
+![IMPRUS.monthly](Tactica%20Adversa/IMPRUS.monthly.png)
+
+IMPRUS.monthly
+
+
+
+График изменения среднесуточной температуры:
+
+![TEMPERATURE2](Tactica%20Adversa/TEMPERATURE2.png)
+
+TEMPERATURE
+
+
+
+Нефть, брент:
+
+![XBRUSD.240](Tactica%20Adversa/XBRUSD.240.png)
+
+XBRUSD.240
 
 
 
