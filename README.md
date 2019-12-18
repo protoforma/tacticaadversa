@@ -10,9 +10,9 @@
 
 ---
 
-Вопросы, ответы на которые могут войти в книгу, можно задать по:
+skype: multipoints
 
 twitter: https://twitter.com/protoforma
 
-skype: multipoints
+
 
