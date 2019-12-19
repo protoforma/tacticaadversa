@@ -149,7 +149,7 @@ MOEX spot daily
 
   - |2^max^ - 1^min^| < |4^max^ - 3^min^| ^ 
 
-  - (1^min^ ^ 3^min^) ∈ trend^line^ ^ ( 2^max^ ^ 4^max^) ∈ target^line^ ^
+  - (1^min^ ^ 3^min^) → trend^line^ ^ ( 2^max^ ^ 4^max^) → target^line^ ^
 
   - M ⋂ trend^line^ = {1^min^, 3^min^} ^ M ⋂ target^line^ = {2^max^, 4^max^}, 
 
@@ -163,7 +163,7 @@ MOEX spot daily
 	
   - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ∧ 
   - |1^max^ - 2^min^| < |3^max^ - 4^min^| ^
-  - (1^max^ ^ 3^max^) ∈ trend^line^ ^ ( 2^min^ ^ 4^min^) ∈ target^line^ ^
+  - (1^max^ ^ 3^max^) → trend^line^ ^ ( 2^min^ ^ 4^min^) → target^line^ ^
   - M ⋂ trend^line^ = {1^max^, 3^max^} ^ M ⋂ target^line^ = {2^min^, 4^min^}
 
 
