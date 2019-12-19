@@ -143,20 +143,28 @@ MOEX spot daily
 
 - {1^min^, 2^max^, 3^min^, 4^max^} → λ~МР~ 
 
-  модель описывающая восходящий тренд (up-trend), где
+  Модель описывающая восходящий тренд (up-trend), если
 
-  - (1^min^ ≤ 3^min^) < 2^max^ < 4^max^ ∧ 
-  - |2^max^ - 1^min^| < |4^max^ - 3^min^|  ^ 
+  - 1^min^ ≤ 3^min^ < 2^max^ < 4^max^ ∧ 
+
+  - |2^max^ - 1^min^| < |4^max^ - 3^min^| ^ 
+
   - (1^min^ ^ 3^min^) ∈ trend^line^ ^ ( 2^max^ ^ 4^max^) ∈ target^line^ ^
-  - M ⋂ trend^line^ = {1^min^, 3^min^} ^ M ⋂ target^line^ = {2^max^, 4^max^}
+
+  - M ⋂ trend^line^ = {1^min^, 3^min^} ^ M ⋂ target^line^ = {2^max^, 4^max^}, 
+
+    где M - множество всех точек модели.
 
   или
 
 - (1^max^ ∧ 2^min^ ∧ 3^max^ ∧ 4^min^) → λ~МР~
 
-  модель описывающая нисходящий тренд (down-trend), где
+  Модель описывающая нисходящий тренд (down-trend), если
 	
-  - (1^max^ ≥ 3^max^) > 2^min^ > 4^min^ ∧ |1^max^ - 2^min^| < |3^max^ - 4^min^| 
+  - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ∧ 
+  - |1^max^ - 2^min^| < |3^max^ - 4^min^| ^
+  - (1^max^ ^ 3^max^) ∈ trend^line^ ^ ( 2^min^ ^ 4^min^) ∈ target^line^ ^
+  - M ⋂ trend^line^ = {1^max^, 3^max^} ^ M ⋂ target^line^ = {2^min^, 4^min^}
 
 
 
