@@ -12,7 +12,5 @@
 
 skype: multipoints
 
-twitter: https://twitter.com/protoforma
-
 
 
