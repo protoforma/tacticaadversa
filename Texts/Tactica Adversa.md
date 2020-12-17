@@ -20,37 +20,13 @@
 
 
 
-Импульс (тонкий план) - своего рода **центр деятельности**, который приводит объект в воплощение, озаряет и насыщает его жизнь, придавая сил и поддерживая цель существования. 
+Импульс (тонкий план) - своего рода **центр деятельности**, который приводит объект в воплощение, озаряет его путь и насыщает его жизнь, придавая сил и поддерживая цель существования. 
 
 В космосе - черная дыра, вокруг которой строится галактика. 
 
 Абстрактно - CP (сакральная/скрытая точка, Cause Point) - проекция на плоскость графика результирующей всех сил воздействующих на объект в моменте. 
 
 Несколько примеров (здесь и далее примеры приводятся на разных данных и типах графиков (первые два - свечи, третий - кривая, четвертый - крестики-нолики), чтобы продемонстрировать универсальность и робастность ТА) расположения CP (в программе [Skilful Pro](https://protoforma.pro/skilfulpro/) данная точка так и обозначается - CP). 
-
-Декабрьский 2019 года фьючерс на рубль:
-
-![Si.FORTS.Z2019](Tactica%20Adversa/Si.FORTS.Z2019.png)
-
-Si.FORTS.Z2019
-
-Модель с началом на 9 897 288 значении после запятой числа Пи:
-
-![Pi_9897288](Tactica%20Adversa/Pi_9897288.png)
-
-Pi 10 mio
-
-Модель с началом на 225 545 070 значении после запятой числа Пи:
-
-![Pi_22554507](Tactica%20Adversa/Pi_22554507.png)
-
-Pi 230 mio
-
-Индекс ММВБ, дни:
-
-![MOEX.daily](Tactica%20Adversa/MOEX.daily.png)
-
-MOEX spot daily 
 
 Сакральной CP является потому, что она в моменте есть совокупность всех сил и точек будущей модели и потому, что не принадлежит ни физическому плану, ни, тем более, исследуемому объекту. Скрытой - потому, что может быть выявлена/рассчитана по факту формирования четырех точек Модели Расширения. 
 
@@ -147,7 +123,7 @@ MOEX spot daily
 
   Модель описывающая восходящий тренд (up^trend^), если
 
-  - 1^min^ ≤ 3^min^ < 2^max^ < 4^max^ ∧ 
+  - 1^min^ ≤ 3^min^ < 2^max^ < 4^max^ ^ 
 
   - |2^max^ - 1^min^| < |4^max^ - 3^min^| ^ 
 
@@ -155,7 +131,7 @@ MOEX spot daily
 
   - M ⋂ trend^line^ = {1^min^, 3^min^} ^ M ⋂ target^line^ = {2^max^, 4^max^}, 
 
-    где M - множество всех точек модели.
+    где **M** - множество всех точек модели.
 
   или
 
@@ -163,42 +139,10 @@ MOEX spot daily
 
   Модель описывающая нисходящий тренд (down^trend^), если
 	
-  - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ∧ 
+  - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ^ 
   - |1^max^ - 2^min^| < |3^max^ - 4^min^| ^
   - (1^max^ ^ 3^max^) → trend^line^ ^ ( 2^min^ ^ 4^min^) → target^line^ ^
   - M ⋂ trend^line^ = {1^max^, 3^max^} ^ M ⋂ target^line^ = {2^min^, 4^min^}
-
-
-
-Декабрьский 2019 года фьючерс на индекс доллара:
-
-![DX.ICE.Z2019](Tactica%20Adversa/DX.ICE.Z2019.png)
-
-DX.ICE.Z2019
-
-
-
-Декабрьский 2019 года фьючерс на натуральный газ:
-
-![NG.NYMEX.Z2019](Tactica%20Adversa/NG.NYMEX.Z2019.png)
-
-NG.NYMEX.Z2019
-
-
-
-ОАО Северсталь:
-
-![CHMF.MICEX](Tactica%20Adversa/CHMF.MICEX.png)
-
-CHMF.MICEX
-
-
-
-Glencore PLC:
-
-![GLEN.LSE](Tactica%20Adversa/GLEN.LSE.png)
-
-GLEN.LSE
 
 
 
@@ -216,7 +160,7 @@ GLEN.LSE
 
   Модель описывающая восходящий тренд (up^trend^), если
 
-  - 1^min^ ≤ 3^min^ < 2^max^ < 4^max^ ∧ 
+  - 1^min^ ≤ 3^min^ < 2^max^ < 4^max^ ^ 
   - |2^max^ - 1^min^| > |4^max^ - 3^min^| ^ 
 
   - (1^min^ ^ 3^min^) → trend^line^ ^ ( 2^max^ ^ 4^max^) → target^line^ ^
@@ -228,32 +172,12 @@ GLEN.LSE
 
   Модель описывающая нисходящий тренд (down^trend^), если
 
-  - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ∧ 
+  - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ^ 
   - |1^max^ - 2^min^| > |3^max^ - 4^min^| ^
   - (1^max^ ^ 3^max^) → trend^line^ ^ ( 2^min^ ^ 4^min^) → target^line^ ^
   - M ⋂ trend^line^ = {1^max^, 3^max^} ^ M ⋂ target^line^ = {2^min^, 4^min^}
 
 
-
-Графики изменения среднесуточной температуры:
-
-![TEMPERATURE](Tactica%20Adversa/TEMPERATURE.png)
-
-TEMPERATURE
-
-
-
-![TEMPERATURE3](Tactica%20Adversa/TEMPERATURE3.png)
-
-TEMPERATURE
-
-
-
-Курс рубля к доллару:
-
-![USDRUB.240](Tactica%20Adversa/USDRUB.240.png)
-
-USDRUB.240
 
 
 
@@ -269,7 +193,7 @@ USDRUB.240
 
   Модель описывающая восходящий тренд (up^trend^), если
 
-  - 1^min^ ≤ 3^min^ < 2^max^ < 4^max^ ∧ 
+  - 1^min^ ≤ 3^min^ < 2^max^ < 4^max^ ^ 
   - |2^max^ - 1^min^| ≈ |4^max^ - 3^min^| ^
   - (1^min^ ^ 3^min^) → trend^line^ ^ ( 2^max^ ^ 4^max^) → target^line^ ^
   - M ⋂ trend^line^ = {1^min^, 3^min^} ^ M ⋂ target^line^ = {2^max^, 4^max^}
@@ -280,7 +204,7 @@ USDRUB.240
 
   Модель описывающая нисходящий тренд (down^trend^), если
 
-  - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ∧ 
+  - 1^max^ ≥ 3^max^ > 2^min^ > 4^min^ ^ 
   - |1^max^ - 2^min^| ≈ |3^max^ - 4^min^| ^
   - (1^min^ ^ 3^min^) → trend^line^ ^ ( 2^max^ ^ 4^max^) → target^line^ ^
   - M ⋂ trend^line^ = {1^min^, 3^min^} ^ M ⋂ target^line^ = {2^max^, 4^max^}
@@ -296,43 +220,7 @@ USDRUB.240
 
   для down^trend^
 
-График курса новозеландского доллара к евро, дни:
 
-![EURNZD](Tactica%20Adversa/EURNZD.png)
-
-EURNZD
-
-
-
-Экономические показатели:
-
-![IMPRUS.monthly](Tactica%20Adversa/IMPRUS.monthly.png)
-
-IMPRUS.monthly
-
-
-
-График изменения среднесуточной температуры:
-
-![TEMPERATURE2](Tactica%20Adversa/TEMPERATURE2.png)
-
-TEMPERATURE
-
-
-
-Нефть, брент:
-
-![XBRUSD.240](Tactica%20Adversa/XBRUSD.240.png)
-
-XBRUSD.240
-
-
-
-Индекс доллара:
-
-![DX2.ICE.Z2019](Tactica%20Adversa/DX2.ICE.Z2019.png)
-
-DX.ICE.Z2019
 
 
 
