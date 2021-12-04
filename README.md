@@ -12,5 +12,7 @@
 
 skype: multipoints
 
+telegram: @janrootkevich
+
 
 
